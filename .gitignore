@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Environment files
+.env
+
+# Local Spring configuration / secrets
+**/application.properties
+**/application-local.properties

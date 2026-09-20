@@ -12,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../JobAppRest/src/main/java/com/example/JobAppRest/service/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JobAppRest/src/main/java/com/example/JobAppRest/service/JobService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JobAppRest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../JobAppRest/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringAppxJDBC/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAppxJDBC/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,8 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/sksin/OneDrive/Desktop/Saurabh_Java/JobAppRestWithJPA/backend/src/main/java/com/example/JobAppRest/model",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -158,5 +158,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
